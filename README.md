@@ -7,8 +7,8 @@ I thrive on solving complex problems and exploring new technologies to build eff
 Contributed to building smart booking platforms using .NET 8 and Angular within Agile sprints.<br>
 <b>Head Coach & Quality Control @ LogiClub:</b> <br>
 Leading and mentoring a team of coaches while teaching robotics and programming to students.<br>
-# 📫 Let's Connect!LinkedIn: 
-linkedin.com/in/ziad-ahmad <br>
+# 📫 Let's Connect!: 
+LinkedIn: linkedin.com/in/ziad-ahmad <br>
 Email: Ziad.a.badran22@gmail.com <br>
 Portfolio: You're looking at it! Feel free to explore my repositories.“Looking for challenges to utilize my technical skills and explore new horizons.” <br>
 
